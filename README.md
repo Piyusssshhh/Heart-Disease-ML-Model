@@ -41,6 +41,3 @@ Logistic Regression was optimized using GridSearchCV for better generalization a
 - Scikit-learn  
 - Jupyter Notebook  
 
----
-
-## 📁 Project Structure
