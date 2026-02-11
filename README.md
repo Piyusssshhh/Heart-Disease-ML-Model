@@ -1,4 +1,4 @@
- ❤️ Heart Disease Risk Prediction (Machine Learning)
+ ❤️ Heart Disease Prediction Model (Machine Learning)
 
  📌 Overview
 This project implements an end-to-end machine learning system to predict the risk of heart disease using structured patient health data. 
